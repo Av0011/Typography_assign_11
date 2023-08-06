@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: Cambria, Cochin, Georgia;
+    border-bottom: 4px solid rgba(0,0,0,0.6);
+    
+}
+
+.cent{
+    width: 30%;
+}
+
+p{
+    color: rgba(0,0,0,0.7);
+}
